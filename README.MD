@@ -1,13 +1,10 @@
 <h1> My Mind </h1>
 
 ---
-<img src="https://img.shields.io/badge/license-apache-blueviolet">
-<img src="https://img.shields.io/badge/version-v0.0.0-purple">
-<img src="https://img.shields.io/badge/relace%20date-july-informational">
-<img src="https://img.shields.io/badge/status-in%20dev-9cf">
+<img src="https://img.shields.io/badge/license-apache-blueviolet"> <img src="https://img.shields.io/badge/version-v0.0.0-purple"> <img src="https://img.shields.io/badge/relace%20date-july-informational"> <img src="https://img.shields.io/badge/status-in%20dev-9cf">
 
 > ## Meu primeiro projeto!
->Esse projeto é a criação de um site que mostre os projetos realizados por mim e a forma como trabalho.
+>Esse projeto é a criação de um site que apresente os projetos realizados por mim e a forma como trabalho.
 
 <h4 align="center">
 :construction:  Projeto em construção  :construction:
