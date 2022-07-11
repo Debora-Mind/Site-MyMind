@@ -1,0 +1,11 @@
+#navbar {
+    width: auto;
+    height: 100%;
+    left: auto;
+    border-radius: 0 20px 20px 0;
+}
+
+#body {
+    width: 90%;
+    float: right;
+}
